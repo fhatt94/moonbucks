@@ -1,37 +1,32 @@
 [
     {
-        "animalName": "Cherry Blossom Cappuccino",
-        "animalPic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/cherry-cap.webp",
-        "animalAge": "8",
-        "animalType": "dog",
-        "animalBreed": "Cross Breed Collie"
+        "coffeeName": "Cherry Blossom Cappuccino",
+        "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/cherry-cap.webp",
+        "coffeeType": "cappucino",
+        "coffeeBreed": "smooth"
     },
     {
-        "animalName": "Lavender Honey Latte",
-        "animalPic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/lav-honey.webp",
-        "animalAge": "6",
-        "animalType": "dog",
-        "animalBreed": "Cross Breed Sproodle"
+        "coffeeName": "Lavender Honey Latte",
+        "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/lav-honey.webp",
+        "coffeeType": "latte",
+        "coffeeBreed": "bitter"
     },
     {
-        "animalName": "Mint Mocha Frappé",
-        "animalPic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/mint-mocha.webp",
-        "animalAge": "15",
-        "animalType": "cat",
-        "animalBreed": "tabby moggy"
+        "coffeeName": "Mint Mocha Frappé",
+        "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/mint-mocha.webp",
+        "coffeeType": "frappe",
+        "coffeeBreed": "minty"
     },
     {
-        "animalName": "Rose Petal Macchiato",
-        "animalPic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/rose-petal.webp",
-        "animalAge": "11",
-        "animalType": "cat",
-        "animalBreed": "tabby moggy"
+        "coffeeName": "Rose Petal Macchiato",
+        "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/rose-petal.webp",
+        "coffeeType": "macchiato",
+        "coffeeBreed": "creamy"
     },
     {
-        "animalName": "Spring Renewal Blend ",
-        "animalPic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/spring-renewal.webp",
-        "animalAge": "11",
-        "animalType": "cat",
-        "animalBreed": "Black and white moggy"
+        "coffeeName": "Spring Renewal Blend ",
+        "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/spring-renewal.webp",
+        "coffeeType": "wellness",
+        "coffeeBreed": "zingy"
     }
 ]
