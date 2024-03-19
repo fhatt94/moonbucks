@@ -4,29 +4,34 @@
         "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/cherry-cap.webp",
         "coffeeType": "cappucino",
         "coffeeBreed": "smooth"
+        "allergies": "Milk, Nuts"
     },
     {
         "coffeeName": "Lavender Honey Latte",
         "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/lav-honey.webp",
         "coffeeType": "latte",
         "coffeeBreed": "bitter"
+        "allergies": "Milk, Nuts"
     },
     {
         "coffeeName": "Mint Mocha Frappé",
         "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/mint-mocha.webp",
         "coffeeType": "frappe",
         "coffeeBreed": "minty"
+        "allergies": "Milk, Nuts"
     },
     {
         "coffeeName": "Rose Petal Macchiato",
         "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/rose-petal.webp",
         "coffeeType": "macchiato",
         "coffeeBreed": "creamy"
+        "allergies": "Milk, Nuts"
     },
     {
         "coffeeName": "Spring Renewal Blend ",
         "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/spring-renewal.webp",
         "coffeeType": "wellness",
         "coffeeBreed": "zingy"
+        "allergies": "Milk, Nuts"
     }
 ]
