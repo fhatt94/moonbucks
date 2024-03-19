@@ -8,28 +8,28 @@
     },
     {
         "animalName": "Lavender Honey Latte",
-        "animalPic": "https://fi67.github.io/JsonData/images/jemima.jpg",
+        "animalPic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/lav-honey.webp",
         "animalAge": "6",
         "animalType": "dog",
         "animalBreed": "Cross Breed Sproodle"
     },
     {
         "animalName": "Mint Mocha Frappé",
-        "animalPic": "https://fi67.github.io/JsonData/images/garnet.jpg",
+        "animalPic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/mint-mocha.webp",
         "animalAge": "15",
         "animalType": "cat",
         "animalBreed": "tabby moggy"
     },
     {
         "animalName": "Rose Petal Macchiato",
-        "animalPic": "https://fi67.github.io/JsonData/images/tabby.jpg",
+        "animalPic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/rose-petal.webp",
         "animalAge": "11",
         "animalType": "cat",
         "animalBreed": "tabby moggy"
     },
     {
         "animalName": "Spring Renewal Blend ",
-        "animalPic": "https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "animalPic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/spring-renewal.webp",
         "animalAge": "11",
         "animalType": "cat",
         "animalBreed": "Black and white moggy"
