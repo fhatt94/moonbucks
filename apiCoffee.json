@@ -3,30 +3,30 @@
         "coffeeName": "Cherry Blossom Cappuccino",
         "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/cherry-cap.webp",
         "coffeeType": "cappucino",
-        "coffeeBreed": "smooth",
+        "coffeeBreed": "smooth"
     },
     {
         "coffeeName": "Lavender Honey Latte",
         "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/lav-honey.webp",
         "coffeeType": "latte",
-        "coffeeBreed": "bitter",
+        "coffeeBreed": "bitter"
     },
     {
         "coffeeName": "Mint Mocha Frappé",
         "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/mint-mocha.webp",
         "coffeeType": "frappe",
-        "coffeeBreed": "minty",
+        "coffeeBreed": "minty"
     },
     {
         "coffeeName": "Rose Petal Macchiato",
         "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/rose-petal.webp",
         "coffeeType": "macchiato",
-        "coffeeBreed": "creamy",
+        "coffeeBreed": "creamy"
     },
     {
         "coffeeName": "Spring Renewal Blend ",
         "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/spring-renewal.webp",
         "coffeeType": "wellness",
-        "coffeeBreed": "zingy",
+        "coffeeBreed": "zingy"
     }
 ]
