@@ -1,34 +1,34 @@
 [
     {
-        "animalName": "Falcor",
+        "animalName": "Cherry Blossom Cappuccino",
         "animalPic": "https://fi67.github.io/JsonData/images/falcor.jpg",
         "animalAge": "8",
         "animalType": "dog",
         "animalBreed": "Cross Breed Collie"
     },
     {
-        "animalName": "Jemima",
+        "animalName": "Lavender Honey Latte",
         "animalPic": "https://fi67.github.io/JsonData/images/jemima.jpg",
         "animalAge": "6",
         "animalType": "dog",
         "animalBreed": "Cross Breed Sproodle"
     },
     {
-        "animalName": "Garnet",
+        "animalName": "Mint Mocha Frappé",
         "animalPic": "https://fi67.github.io/JsonData/images/garnet.jpg",
         "animalAge": "15",
         "animalType": "cat",
         "animalBreed": "tabby moggy"
     },
     {
-        "animalName": "Tabby",
+        "animalName": "Rose Petal Macchiato",
         "animalPic": "https://fi67.github.io/JsonData/images/tabby.jpg",
         "animalAge": "11",
         "animalType": "cat",
         "animalBreed": "tabby moggy"
     },
     {
-        "animalName": "Moonlight",
+        "animalName": "Spring Renewal Blend ",
         "animalPic": "https://fi67.github.io/JsonData/images/moonlight.jpg",
         "animalAge": "11",
         "animalType": "cat",
