@@ -1,7 +1,7 @@
 [
     {
         "animalName": "Cherry Blossom Cappuccino",
-        "animalPic": "https://fi67.github.io/JsonData/images/falcor.jpg",
+        "animalPic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/cherry-cap.webp",
         "animalAge": "8",
         "animalType": "dog",
         "animalBreed": "Cross Breed Collie"
