@@ -1,6 +1,7 @@
 [
     {
         "coffeeName": "Cherry Blossom Cappuccino",
+        "coffeePic": "https://fi67.github.io/JsonData/images/falcor.jpg",
         "coffeeType": "cappucino",
         "coffeeBreed": "smooth"
     },
