@@ -7,21 +7,25 @@
     },
     {
         "coffeeName": "Lavender Honey Latte",
+        "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/lav-honey.webp"
         "coffeeType": "latte",
         "coffeeBreed": "bitter"
     },
     {
         "coffeeName": "Mint Mocha Frappé",
+        "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/mint-mocha.webp"
         "coffeeType": "frappe",
         "coffeeBreed": "minty"
     },
     {
         "coffeeName": "Rose Petal Macchiato",
+        "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/rose-petal.webp"
         "coffeeType": "macchiato",
         "coffeeBreed": "creamy"
     },
     {
         "coffeeName": "Spring Renewal Blend ",
+        "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/spring-renewal.webp"
         "coffeeType": "wellness",
         "coffeeBreed": "zingy"
     }
