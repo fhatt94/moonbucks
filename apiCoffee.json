@@ -2,7 +2,7 @@
     {
         "coffeeName": "Cherry Blossom Cappuccino",
         "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/cherry-cap.webp",
-        "coffeeType": "cappucino",
+        "coffeeType": "cappuccino",
         "coffeeBreed": "smooth"
     },
     {
@@ -24,7 +24,7 @@
         "coffeeBreed": "creamy"
     },
     {
-        "coffeeName": "Spring Renewal Blend ",
+        "coffeeName": "Spring Renewal Blend",
         "coffeePic": "https://raw.githubusercontent.com/fhatt94/moonbucks/main/spring-renewal.webp",
         "coffeeType": "wellness",
         "coffeeBreed": "zingy"
